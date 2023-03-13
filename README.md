@@ -1,1 +1,1 @@
-Hey folks.. This is a simple bank system prototype implemented using Turbo c++ and DAT file.
+Hey folks.. This is a simple prototype for bank management system implemented using Turbo c++ and DAT.
